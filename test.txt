@@ -1,7 +1,3 @@
 Bye world!
 
-Hello< world!
-
-fghfghdfhdfh 2
-
-for new commit
+Ivan was here!

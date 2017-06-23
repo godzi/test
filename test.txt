@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hello Maxim!
+=======
+Bye world!
+
+Ivan was here!
+>>>>>>> ivan_branch
